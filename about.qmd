@@ -1,9 +1,37 @@
 ---
-title: "About"
+title: "Content"
 ---
 
-About this site
+# About Me
 
-```{r}
-1 + 1
-```
+![](profile.png){width="150px"}
+
+Hello! My name is Kowen, and I'm a graduating class of 2025 at UCLA majoring in Statistics and Data Science.
+
+------------------------------------------------------------------------
+
+# Projects
+
+## Project 1: Title Here
+
+\*\*Description:\*\* Briefly describe what this project is about, its goals, and key technologies used.
+
+\[View Project\](#) <!-- Add project link here -->
+
+## Project 2: Title Here
+
+\*\*Description:\*\* Explain the second project and its significance.
+
+\[View Project\](#)
+
+## Project 3: Title Here
+
+\*\*Description:\*\* Describe your third project.
+
+\[View Project\](#)
+
+------------------------------------------------------------------------
+
+# Contact
+
+Feel free to reach out via \[your email or social links\].

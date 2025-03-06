@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Content",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Kowen, and I’m a graduating class of 2025 at UCLA majoring in Statistics and Data Science."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,26 @@
     "title": "personal-website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.75599130 0.40737324 0.14465009 0.74404537 0.60244908 0.09259958\n [7] 0.84179984 0.44338497 0.30380812 0.66622242"
+  },
+  {
+    "objectID": "about.html#project-1-title-here",
+    "href": "about.html#project-1-title-here",
+    "title": "Content",
+    "section": "Project 1: Title Here",
+    "text": "Project 1: Title Here\n**Description:** Briefly describe what this project is about, its goals, and key technologies used.\n[View Project](#)"
+  },
+  {
+    "objectID": "about.html#project-2-title-here",
+    "href": "about.html#project-2-title-here",
+    "title": "Content",
+    "section": "Project 2: Title Here",
+    "text": "Project 2: Title Here\n**Description:** Explain the second project and its significance.\n[View Project](#)"
+  },
+  {
+    "objectID": "about.html#project-3-title-here",
+    "href": "about.html#project-3-title-here",
+    "title": "Content",
+    "section": "Project 3: Title Here",
+    "text": "Project 3: Title Here\n**Description:** Describe your third project.\n[View Project](#)"
   }
 ]
