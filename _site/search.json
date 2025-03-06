@@ -7,31 +7,24 @@
     "text": "Hello! My name is Kowen, and I’m a graduating class of 2025 at UCLA majoring in Statistics and Data Science."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.75599130 0.40737324 0.14465009 0.74404537 0.60244908 0.09259958\n [7] 0.84179984 0.44338497 0.30380812 0.66622242"
+    "objectID": "about.html#project-1-predictive-model-of-dating-match",
+    "href": "about.html#project-1-predictive-model-of-dating-match",
+    "title": "Content",
+    "section": "Project 1: Predictive Model of Dating Match",
+    "text": "Project 1: Predictive Model of Dating Match\nExploratory analysis revealed that factors like ethnicity, profession, and dating experience influenced match likelihood, with medical professionals and experienced daters having higher success rates. The dataset required extensive cleaning, including handling missing values and encoding categorical variables. After testing multiple models, the k-nearest neighbors (k-NN) algorithm performed best, achieving an R² of 0.984, surpassing linear regression and support vector machines. The study concluded that while machine learning can predict general trends in dating success, attraction remains highly subjective and influenced by unmeasured factors."
   },
   {
-    "objectID": "about.html#project-1-title-here",
-    "href": "about.html#project-1-title-here",
+    "objectID": "about.html#project-2-predictive-model-of-ideal-friendships",
+    "href": "about.html#project-2-predictive-model-of-ideal-friendships",
     "title": "Content",
-    "section": "Project 1: Title Here",
-    "text": "Project 1: Title Here\n**Description:** Briefly describe what this project is about, its goals, and key technologies used.\n[View Project](#)"
+    "section": "Project 2: Predictive Model of Ideal Friendships",
+    "text": "Project 2: Predictive Model of Ideal Friendships\nThe data surveyed over one million participants on the Big Five personality traits. Data preprocessing involved handling inconsistent responses, normalizing scores, and sampling subsets for efficiency. The team employed k-means clustering for grouping similar personality types and principal component analysis (PCA) to reduce dimensionality, achieving a variance explanation of 26.8% and 35.6% in the top two components. A compatibility matrix was constructed using numerical transformations of personality trait alignments, assigning match scores based on similarity in extraversion, agreeableness, conscientiousness, openness, and neuroticism. The results showed that while certain personality types correlated with higher compatibility, friendships remain highly individual and cannot be perfectly predicted by models."
   },
   {
-    "objectID": "about.html#project-2-title-here",
-    "href": "about.html#project-2-title-here",
+    "objectID": "about.html#project-3-social-media-analysis",
+    "href": "about.html#project-3-social-media-analysis",
     "title": "Content",
-    "section": "Project 2: Title Here",
-    "text": "Project 2: Title Here\n**Description:** Explain the second project and its significance.\n[View Project](#)"
-  },
-  {
-    "objectID": "about.html#project-3-title-here",
-    "href": "about.html#project-3-title-here",
-    "title": "Content",
-    "section": "Project 3: Title Here",
-    "text": "Project 3: Title Here\n**Description:** Describe your third project.\n[View Project](#)"
+    "section": "Project 3: Social Media Analysis",
+    "text": "Project 3: Social Media Analysis\nAnalyzed the most famous social media accounts across five major platforms: Facebook, Instagram, YouTube, Twitter, and TikTok. It highlights that musicians and football players dominate multiple platforms, with Cristiano Ronaldo having the most followers overall. The U.S. has the highest number of famous social media personalities, while India has a strong presence on YouTube, and Chinese accounts are prominent on Facebook despite platform bans. Professionally, music and sports are the most popular, with Instagram favoring diverse careers, Facebook promoting brands, and TikTok elevating individual creators. The study emphasizes how social media fame reflects global entertainment trends and societal interests."
   }
 ]
