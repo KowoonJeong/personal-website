@@ -20,12 +20,16 @@ Exploratory analysis revealed that factors like ethnicity, profession, and datin
 
 The data surveyed over one million participants on the Big Five personality traits. Data preprocessing involved handling inconsistent responses, normalizing scores, and sampling subsets for efficiency. The team employed **k-means clustering** for grouping similar personality types and **principal component analysis (PCA)** to reduce dimensionality, achieving a variance explanation of 26.8% and 35.6% in the top two components. A compatibility matrix was constructed using numerical transformations of personality trait alignments, assigning match scores based on similarity in extraversion, agreeableness, conscientiousness, openness, and neuroticism. The results showed that while certain personality types correlated with higher compatibility, friendships remain highly individual and cannot be perfectly predicted by models.
 
-## Project 3: Social Media Analysis 
+## Project 3: Social Media Analysis
 
 Analyzed the most famous social media accounts across five major platforms: Facebook, Instagram, YouTube, Twitter, and TikTok. It highlights that musicians and football players dominate multiple platforms, with Cristiano Ronaldo having the most followers overall. The U.S. has the highest number of famous social media personalities, while India has a strong presence on YouTube, and Chinese accounts are prominent on Facebook despite platform bans. Professionally, music and sports are the most popular, with Instagram favoring diverse careers, Facebook promoting brands, and TikTok elevating individual creators. The study emphasizes how social media fame reflects global entertainment trends and societal interests.
 
 ------------------------------------------------------------------------
 
-# Contact
+# Resume
+
+[📄 View My Resume](resume.pdf)
+
+[🐙 GitHub Profile](https://github.com/KowoonJeong)
 
 Feel free to reach out via kowoon1113\@gmail.com
