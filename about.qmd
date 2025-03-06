@@ -2,8 +2,6 @@
 title: "Content"
 ---
 
-# About Me
-
 ![](profile.png){width="150px"}
 
 Hello! My name is Kowen, and I'm a graduating class of 2025 at UCLA majoring in Statistics and Data Science.
