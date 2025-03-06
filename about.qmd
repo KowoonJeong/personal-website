@@ -22,7 +22,7 @@ The data surveyed over one million participants on the Big Five personality trai
 
 ## Project 3: Social Media Analysis
 
-Analyzed the most famous social media accounts across five major platforms: Facebook, Instagram, YouTube, Twitter, and TikTok. It highlights that musicians and football players dominate multiple platforms, with Cristiano Ronaldo having the most followers overall. The U.S. has the highest number of famous social media personalities, while India has a strong presence on YouTube, and Chinese accounts are prominent on Facebook despite platform bans. Professionally, music and sports are the most popular, with Instagram favoring diverse careers, Facebook promoting brands, and TikTok elevating individual creators. The study emphasizes how social media fame reflects global entertainment trends and societal interests.
+Analyzed the most famous social media accounts across five major platforms: Facebook, Instagram, YouTube, Twitter, and Tik Tok. It highlights that musicians and football players dominate multiple platforms, with Cristiano Ronaldo having the most followers overall. The U.S. has the highest number of famous social media personalities, while India has a strong presence on YouTube, and Chinese accounts are prominent on Facebook despite platform bans. Professionally, music and sports are the most popular, with Instagram favoring diverse careers, Facebook promoting brands, and TikTok elevating individual creators. The study emphasizes how social media fame reflects global entertainment trends and societal interests.
 
 ------------------------------------------------------------------------
 
